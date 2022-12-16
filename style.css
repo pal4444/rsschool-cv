@@ -1,0 +1,23 @@
+
+.name {
+    font-size: 62px;
+    text-align: center;
+}
+
+body {
+    padding: 7% 24% 0;
+    background-color: aliceblue;
+}
+
+.textPaddingLeft {
+    margin-left: 2%;
+}
+
+.customBorderContent {
+    border: 2px solid black;
+}
+
+.card {
+    padding: 0 15px 0;
+    background-color: white;
+}
