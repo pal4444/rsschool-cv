@@ -21,3 +21,23 @@ body {
     padding: 0 15px 0;
     background-color: white;
 }
+footer {
+    margin: 20px 0 0 0;
+    text-align: center;
+}
+.logo {
+    width: 50px;
+}
+
+footer span {
+    margin-right: 10px;
+}
+
+a {
+    color: #8f8fbd;
+    text-decoration: none;
+}
+
+.portrain {
+    width: 100%;
+}
