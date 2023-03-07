@@ -14,3 +14,6 @@
 #### No work experience.
 **Education (Pilates training, started htmlacademy, rsschool stage 0).**
 ##### My English is level A1
+
+# My complited prokects:
+## Plants: https://rolling-scopes-school.github.io/pal4444-JSFEPRESCHOOL2022Q4/Plants/
