@@ -1,14 +1,16 @@
-# Артем Петкевич 
+# Artem Petkevich
 *artem.petkevich@yandex.ru*
 
-**Научится писать на js, html.**
+**I want to write in js.**
 
-## Начальные знания html, css.
-### Все что пока умею, это подключать js файлы в html. Помимо всего могу подключить css файл в проект.
+## Basic knowledge of html, css and js.
+### All I can do so far is include js files in html and solve simple tasks in js. So I can make a simple page.
+
 
 `<script src="script.js">`
 `<link rel="stylesheet" href="stlyle.css" />`
+`<console.log('hello world')>`
 
-#### Опыт работы отсутствует.
-**Образование (тренинг по пилатесу, начал htmlacademy).**
-##### My English is level A2
+#### No work experience.
+**Education (Pilates training, started htmlacademy, rsschool stage 0).**
+##### My English is level A1
